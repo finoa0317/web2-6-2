@@ -58,6 +58,9 @@ footer{
     width: calc(1024px - 718px);
     float:left;
   }
+  aside{
+    width: calc(100% - 20px);
+  }
   #main:after{
     content:"";
     display:block;
